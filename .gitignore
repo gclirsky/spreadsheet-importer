@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/
+/SpreadImporter/bin/
+/SpreadImporter/obj/
+
+*.suo
+*.sln
+.vs

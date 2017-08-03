@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<DbInfo>
+  <ImportSheetFormat header_row="2" body_start_row="3" />
+  <DbSource src="Data Source=.\SQLEXPRESS;Persist Security Info=True;" name="sampleDB" user="root" password="abc123" />
+  <DbTables>
+    <DbTable name="sampleTable">
+      <DbFields>
+        <DbField name="id" type="INT" sheet_column_index="1" /> <!-- 序号 -->
+        <DbField name="name" type="VARCHAR" sheet_column_index="2" /> <!-- 姓名 -->
+      </DbFields>
+    </DbTable>
+  </DbTables>
+</DbInfo>
